@@ -1,0 +1,20 @@
+/* Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+   SPDX-License-Identifier: MIT-0 */
+
+#top-nav {
+    position: sticky;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 1002;
+}
+
+.spaced-components > * {
+    margin-right: 50px; /* Adjust the value as needed */
+}
+
+.horizontal-line {
+    width: 100%; /* Adjust the width as needed */
+    border: 1px solid #ccc; /* Adjust the color and thickness as needed */
+    margin: 20px 0; /* Adjust the spacing as needed */
+}

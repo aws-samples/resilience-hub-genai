@@ -1,0 +1,46 @@
+{
+    "name": "watchtower-aws-cybersecurity-genai-demo",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "deploy": "sh spa_deploy.sh",
+        "preview": "vite preview",
+        "lint": "eslint . --ignore-path .gitignore --ext ts,tsx,js"
+    },
+    "dependencies": {
+        "@aws-amplify/backend": "^1.0.3",
+        "@aws-amplify/ui-react": "^6.1.12",
+        "@aws-sdk/client-bedrock-agent-runtime": "^3.598.0",
+        "@aws-sdk/client-cognito-identity-provider": "^3.577.0",
+        "@aws-sdk/client-dynamodb": "^3.582.0",
+        "@aws-sdk/client-lambda": "^3.577.0",
+        "@aws-sdk/credential-provider-cognito-identity": "^3.577.0",
+        "@cloudscape-design/chat-components": "^1.0.9",
+        "@cloudscape-design/collection-hooks": "^1.0.0",
+        "@cloudscape-design/components": "^3.0.0",
+        "@cloudscape-design/design-tokens": "^3.0.0",
+        "@cloudscape-design/global-styles": "^1.0.0",
+        "@mapbox/rehype-prism": "^0.9.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-markdown": "^9.0.1",
+        "react-router-dom": "^6.23.1",
+        "rehype-raw": "^7.0.0",
+        "remark-gfm": "^4.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.30",
+        "@types/react": "^18.0.17",
+        "@types/react-dom": "^18.0.6",
+        "@typescript-eslint/eslint-plugin": "^7.3.1",
+        "@typescript-eslint/parser": "^7.3.1",
+        "@vitejs/plugin-react": "^4.2.1",
+        "eslint": "^8.57.0",
+        "typescript": "^5.4.3",
+        "vite": "^5.2.6",
+        "vite-plugin-node-polyfills": "^0.22.0"
+    }
+}
