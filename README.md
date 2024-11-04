@@ -12,7 +12,7 @@
 
 ## QuickStart
 
-`git clone git@ssh.gitlab.aws.dev:preirmi/aws-resilience-hub-genai.git`
+`git clone https://github.com/aws-samples/resilience-hub-genai.git`
 
 The application requires signon via email.
 Browse to the backend/constants.py file and edit the EMAIL parameter with your email address.
