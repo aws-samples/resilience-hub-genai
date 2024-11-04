@@ -33,7 +33,7 @@ Here is the site url 👇 :
     "CLOUDFRONTDISTRIBUTION": "d2guh719waj454.cloudfront.net",
 ```
 
-Browse to the url and you will see the signon page.
+Then browse to the url and you will see the signon page.
 Check your email for a message from no-reply@verificationemail.com 
 
 It will contain your username(email) and temporary password.
@@ -41,6 +41,3 @@ Login and you will be prompted to change your password.
 
 After that you will see the Welcome page.
 You can begin generating your reports.
-
-
-
