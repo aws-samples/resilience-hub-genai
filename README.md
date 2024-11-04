@@ -42,12 +42,5 @@ Login and you will be prompted to change your password.
 After that you will see the Welcome page.
 You can begin generating your reports.
 
-## The Team
 
-Have more questions or feedback? Reach out to the team:  
-
-[Ibrahim Ahmad](https://amazon.enterprise.slack.com/team/U03NE3VSNEB)  
-[Leland Johnson](https://amazon.enterprise.slack.com/team/W017GV07QN7)  
-[Fnu Zubair](https://amazon.enterprise.slack.com/team/W017P6GPPGU)  
-[Mike P.](https://amazon.enterprise.slack.com/team/W017VHHQ7L1)  
 
